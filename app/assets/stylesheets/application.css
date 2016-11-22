@@ -13,3 +13,15 @@
  *= require_tree .
  *= require_self
  */
+
+ h1{
+  font-size: 30px;
+ }
+
+ table{
+  background-color: #C5DDDD
+ }
+th{
+font-size: 20px;
+}
+
